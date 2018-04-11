@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">SailOrBail</string>
+    <string name="plan_text">Plan a Text</string>
+    <string name="plan_call">Plan a Call</string>
+    <string name="sail_bail">Sail or Bail</string>
+    <string name="emergency">Emergency Text</string>
+    <string name="when_date">When is your date?</string>
+    <string name="set_bail">How soon do you want to bail?</string>
+    <string name="phone_num">Enter your phone number</string>
+    <string name="next">Next</string>
+    <string name="alias">Enter an alias</string>
+    <string-array name="bail_options">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>60 minutes</item>
+    </string-array>
+
+    <string-array name="text_options">
+        <item>Choose a message to send.</item>
+        <item>Hey its me! Want to let me in? Where are you?</item>
+        <item>Hi sweetie. I just wanted to know if ur available? Im at your place right now.</item>
+        <item>Would you mind filling in for me in like, 15 min? Sorry for the short notice!!</item>
+        <item>Hey so I have a flight in like, an hour, and Im locked out. SOS.</item>
+    </string-array>
+
 </resources>
